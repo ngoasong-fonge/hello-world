@@ -16,7 +16,7 @@
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="ssn"><b>Enter ssn</b></label>
+    <label for="ssn"><b>Enter full ssn</b></label>
     <input type="text" placeholder="Enter ssn number" name="ssn" id="ssn" required>
     <br>
 
